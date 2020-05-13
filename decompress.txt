@@ -1,0 +1,7 @@
+The program can now read two lines and return them into two lines as well, thanks the character by character reading technique .
+And it also adds 1 in all cases, also can encrypt such words as "aaaabcb"
+
+This procedure is only worthwhile for texts of a certain length. Otherwise, the overhead for creating and storing the Huffman table is too big.
+Alternatively, one could think about a better method for storing the table.   
+
+Well done!
